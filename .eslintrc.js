@@ -1,3 +1,4 @@
+/* eslint-disable indent */
 module.exports = {
     env: {
       browser: true,
@@ -38,7 +39,7 @@ module.exports = {
       'no-underscore-dangle': [
         'error',
         {
-          allow: [
+        allow: [
             '_d',
             '_dh',
             '_h',
